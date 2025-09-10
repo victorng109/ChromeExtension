@@ -32,7 +32,8 @@ Some key modules include:
 To make the extension functional, additional **models** must be placed inside the `assets/` directory, as described in the original HaramBlur repo.  
 
 For example (illustration from HaramBlur):  
-*(insert HaramBlur repo structure image here)*
+<img width="1468" height="238" alt="image" src="https://github.com/user-attachments/assets/097cec82-a54a-4357-bbfc-af2a74da98d0" />
+
 
 ---
 
