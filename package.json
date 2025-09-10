@@ -1,0 +1,17 @@
+{
+  "name": "haramblur",
+  "version": "1.0.0",
+  "description": "A Chrome extension to detect and blur sensitive content",
+  "main": "background.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@vladmandic/human": "^3.2.2",
+    "nsfwjs": "^2.4.2"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
